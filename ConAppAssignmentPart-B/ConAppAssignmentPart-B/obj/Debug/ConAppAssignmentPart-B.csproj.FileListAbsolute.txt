@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-8 Assignment\ConAppAssignmentPart-B\ConAppAssignmentPart-B\bin\Debug\ConAppAssignmentPart-B.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-8 Assignment\ConAppAssignmentPart-B\ConAppAssignmentPart-B\bin\Debug\ConAppAssignmentPart-B.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-8 Assignment\ConAppAssignmentPart-B\ConAppAssignmentPart-B\bin\Debug\ConAppAssignmentPart-B.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-8 Assignment\ConAppAssignmentPart-B\ConAppAssignmentPart-B\obj\Debug\ConAppAssignmentPart-B.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-8 Assignment\ConAppAssignmentPart-B\ConAppAssignmentPart-B\obj\Debug\ConAppAssignmentPart-B.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-8 Assignment\ConAppAssignmentPart-B\ConAppAssignmentPart-B\obj\Debug\ConAppAssignmentPart-B.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-8 Assignment\ConAppAssignmentPart-B\ConAppAssignmentPart-B\obj\Debug\ConAppAssignmentPart-B.pdb
